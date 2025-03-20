@@ -29,9 +29,9 @@ This project is a Python-based application that automates the process of categor
 - Project Structure
 - graphql
 
-![Resume_Categorizer_WebApp]![Resume_Categorizer_WebApp](https://github.com/user-attachments/assets/752014d9-d0ed-43b2-b160-9f95b523a071)
+[Resume_Categorizer_WebApp](https://github.com/user-attachments/assets/752014d9-d0ed-43b2-b160-9f95b523a071)
 
-![Resume_Categorizer_WebApp_Result]![Resume_Categorizer_WebApp_Result](https://github.com/user-attachments/assets/b0c34a4e-d416-49b5-a8e0-af69ae48dd55)
+[Resume_Categorizer_WebApp_Result](https://github.com/user-attachments/assets/b0c34a4e-d416-49b5-a8e0-af69ae48dd55)
 
 
 
